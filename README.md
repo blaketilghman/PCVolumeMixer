@@ -12,3 +12,5 @@ The pots are connected to A0-A3 on the Pro Micro.
 </p>
 
 Included are the 3D model files that I made for the case, the gerber files for the PCB, and all the code that I could find.
+
+All code was written on Visual Studio Community 2017 and has not been tested on any newer versions.
