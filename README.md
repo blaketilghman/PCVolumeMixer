@@ -2,7 +2,7 @@
 
 This was a very rough Proof of Concept I made back in 2018 and recently came across the code for. It is a volume mixer for Windows that lets you control the volume of individual applications on a PC.
 
-It uses an Arduino Pro Micro, a custom PCB, and four potentiometers.
+It uses an Arduino Pro Micro, a custom PCB, and four potentiometers. The Pro Micro communicates with the C# application over a USB serial connection.
 The pots are connected to A0-A3 on the Pro Micro.
 
 <p align="center">
