@@ -4,5 +4,8 @@ This was a very rough Proof of Concept I made back in 2018 and recently came acr
 
 It uses an Arduino Pro Micro, a custom PCB, and four potentiometers.
 The pots are connected to A0-A3 on the Pro Micro.
+![PCB](/images/PCB.png)
+![Case](/images/Case.png)
+![Screenshot](/images/Capture.png)
 
 Included are the 3D model files that I made for the case, the gerber files for the PCB, and all the code that I could find.
